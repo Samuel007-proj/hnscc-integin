@@ -2,9 +2,6 @@
 
 **Structure-Based Virtual Screening for novel small-molecule chemotypes against KRAS G12D • PRMT5 (MTA-cooperative) • TEAD • SMARCA2**
 
-Author: **Samuel Damilare Oyelami**  
-Status: Active research project (October 2026)
-
 ---
 
 ## Overview
@@ -70,10 +67,6 @@ This repository documents a multi-target **Structure-Based Virtual Screening (SB
 ```bash
 # Recommended: conda or venv
 pip install -r requirements.txt
-
-# Optional system tools used by validation scripts
-# - Open Babel (obabel)
-# - Smina / AutoDock Vina-compatible docking engine
 ```
 
 **Key Python dependencies:** RDKit, pandas, requests, chembl-webresource-client, Jupyter.
@@ -83,17 +76,6 @@ pip install -r requirements.txt
 ## Related documents
 
 Full project proposal, literature review, and research report (Word) live in the project Drive folder and are summarised in `docs/project_overview.md`.
-
----
-
-## Author
-
-**Samuel Damilare Oyelami**  
-Pharm.D candidate, University of Ibadan  
-Computational drug design · CADD · Cheminformatics  
-
-- GitHub: [Samuel007-proj](https://github.com/Samuel007-proj)  
-- LinkedIn: [oyelami-samuel](https://www.linkedin.com/in/oyelami-samuel-994b44342)
 
 ---
 
