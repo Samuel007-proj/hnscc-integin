@@ -1,0 +1,25 @@
+# Large structure / docking outputs
+PDBs/
+Ligands/cohorts/
+Ligands/validation/
+Ligands/co-crystal*/
+*.pdb
+*.cif
+*.pdbqt
+*.sdf
+!data/**
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.idea/
+.DS_Store
+
+# Results / logs
+*.log
+results/
+output/
